@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       {' '}
       <p> You are not signed in </p>{' '}
-      <button onClick={() => SignIn('Github')}> Sign in with Github </button>{' '}
+      <button onClick={() => signIn('github')}> Sign in with Github </button>{' '}
     </div>
   )
 }
