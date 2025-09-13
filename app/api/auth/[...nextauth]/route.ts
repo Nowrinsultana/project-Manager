@@ -1,3 +1,3 @@
 import { handlers } from '@/components/auth'
 
-export const { , POST } = handlers
+export const { GET, POST } = handlers
